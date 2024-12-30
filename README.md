@@ -33,4 +33,4 @@ This repository demonstrates the implementation of the Skip-Gram model from scra
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code with proper attribution. See the LICENSE file for details.
 
 ## Contributing
-This repository is intended as a reference for learning purposes. While pull requests are not accepted, feel free to explore the code, share feedback, and leave a "star" if you find it helpful!
+This repository is intended as a reference for learning purposes. While pull requests are not accepted, feel free to explore the code and share feedback.
